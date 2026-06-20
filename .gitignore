@@ -1,0 +1,21 @@
+# Environment variables (sensitive data)
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local logs
+db_error.log
+*.log
+
+# Streamlit config/cache
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
