@@ -1,7 +1,7 @@
 # Mentoro Analytics Dashboard
 
 ## Overview
-A **Streamlit**‑based analytics dashboard for the Mentoro platform. It visualizes user, revenue, course, and overview data pulled from a PostgreSQL database via **Prisma**. The project demonstrates secure database connections on Windows, proper handling of environment variables, and a clean Git history after removal of a leaked `.env` file.
+A Streamlit‑based analytics dashboard for Mentoro, providing real‑time visualizations of user, revenue, course, and overview metrics from a PostgreSQL database.
 
 ## Features
 - Interactive charts using **Plotly** integrated with Streamlit.
